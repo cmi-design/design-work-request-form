@@ -1,0 +1,37 @@
+{
+  "name": "design-work-request-form",
+  "version": "1.0.0",
+  "description": "Basic HTML starter with Foundation 6 and Jade/Pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmi-design/design-work-request-form"
+  },
+  "author": "Tim Newcombe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmi-design/design-work-request-form"
+  },
+  "homepage": "https://github.com/cmi-design/design-work-request-form#readme",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "css-reset-and-normalize-sass": "^0.1.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-newer": "^1.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.0.4",
+    "gulp-refresh": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-watch": "^4.3.9",
+    "node-sass": "^3.8.0",
+    "pug": "^2.0.0-beta5"
+  }
+}
